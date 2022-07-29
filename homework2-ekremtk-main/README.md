@@ -6,5 +6,5 @@ Bu ödev çalışmasında 2 farklı çalışma yapılmıştır.
 - [x] 1) Junit açıklanması
 - [x] 2) Demoqa.com üzerinde search box test edilmesi 
 
-Not: Search box testi master branch üzerinden erişilebilir.
-<br>[Master_Branch](https://github.com/enuygun-test-automation-bootcamp/homework2-ekremtk.git)
+Not: Search box testi HomeworkFolder üzerinden erişilebilir.
+<br>[HomeworkFolder](homework2-ekremtk-main/HomeworkFolder)
