@@ -1,4 +1,4 @@
-1) enum Kullanımı
+**1) enum Kullanımı**
 
 enum = enumerations ifadesinin kısa halidir.\
 Anlam olarak da "özel olarak listelenmiş" ifadesine karşılık gelen "numaralandırmalar"ın kısa halidir.
@@ -13,7 +13,7 @@ Enumlar değişmeyeceğini bildiğiniz değerler için kullanılır.
 Ör. Araba için sunduğunuz renk çeşidi yalnızca 4 adet olabilir.
 
 ---
-2) String[] args ifadesi nedir ?
+**2) String[] args ifadesi nedir ?**
 
 main metoduna iletilen bir karakter dizisi anlamına gelir.
 
@@ -21,7 +21,7 @@ Bizim çalışmamızda kullanma sebebimiz ise, metot içinde tüm Chrome options
 Bu sayede ileride bu diziyi genişletip istediğimiz parametreyi kullanabilir halde tuttuk.
 
 ---
-3) Reflection nedir ?
+**3) Reflection nedir ?**
 
 Reflection kelime anlamı olarak yansıma demektir.\
 Reflection, yürütülen programdaki metotlarının, sınıfların veya arayüzlerin davranışlarını incelemek veya değiştirmek için kullanılır.\
@@ -30,7 +30,7 @@ Reflection bize bir nesnenin ait olduğu sınıf ve ayrıca o sınıfın nesne k
 Reflection ile kullanılan erişim belirtecinden bağımsız olarak çalışma zamanında yöntemleri çağırabiliriz.
 
 ---
-4) Clean code kuralları
+**4) Clean code kuralları**
 
 Java'da ve diğer programlama dillerinde kodu yazmak kadar temiz kod yazımı da önemlidir.
 
@@ -40,7 +40,7 @@ Bizim çalışmamızda bahsettiğimiz ise <b> Metotlar yalnızca tek bir şey ya
 
 
 ---
-5) Switch-case'de sayı karşılaştırmak mümkün müdür ?
+**5) Switch-case'de sayı karşılaştırmak mümkün müdür ?**
 
 Java'da switch-case yapısı kullanarak sayıları karşılaştırmak da mümkündür. 
 if-else yapısı dışında bu yöntem de kullanılabilir.
@@ -53,7 +53,7 @@ Aşağıdaki örnekte iki sayının çıkartma işlemine göre elde edilen işar
 
 ---
 
-6) Garbage collector nedir ?
+**6) Garbage collector nedir ?**
   
 Garbage collector anlam olarak çöp toplayıcı demektir.
 
@@ -65,7 +65,7 @@ Garbage collector, bu kullanılmayan nesneleri bulur ve belleği boşaltmak içi
 
 ---
 
-7) Evalute Expression
+**7) Evalute Expression**
 
 İfadenin değerlendirilmesi anlamına gelmektedir.
 
@@ -75,7 +75,7 @@ Bir ifadeyi değerlendirmek, tipik olarak, bir değişkende saklanabilen, karar 
 ---
 
 <b>
-************************************************************************************
+*************************************************************************************************************************************************
 </b>
 
 ---
