@@ -7,4 +7,4 @@ Bu ödev çalışmasında 2 farklı çalışma yapılmıştır.
 - [x] 2) Demoqa.com üzerinde search box test edilmesi 
 
 Not: Search box testi HomeworkFolder üzerinden erişilebilir.
-<br>[HomeworkFolder](homework2-ekremtk-main/HomeworkFolder)
+<br>[HomeworkFolder](HomeworkFolder)
