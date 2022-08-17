@@ -9,3 +9,4 @@ You can easily access the assignments below
 * [Homework #3](homework3-ekremtk-main)
 * [Homework #4](homework4-ekremtk-main)
 * [Homework #5](homework5-ekremtk-main)
+* [Homework #6](homework6-ekremtk-main)
